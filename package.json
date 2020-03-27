@@ -16,6 +16,7 @@
     "magnific-popup": "^1.1.0"
   },
   "devDependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
     "cssmin": "^0.4.3",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
